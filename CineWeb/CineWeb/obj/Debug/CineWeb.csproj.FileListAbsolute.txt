@@ -1,0 +1,82 @@
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\CineWeb.exe.config
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\CineWeb.exe
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\EntityFramework.dll
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.dll
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\EntityFramework.xml
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2290587\Documents\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.xml
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.AssemblyReference.cache
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.SuggestedBindingRedirects.cache
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.Login.resources
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.Menu.resources
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.Properties.Resources.resources
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.GenerateResource.cache
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.CoreCompileInputs.cache
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.CopyComplete
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.exe
+C:\Users\2290587\Documents\CineWeb\CineWeb\obj\Debug\CineWeb.pdb
+D:\App dev\CineWeb\CineWeb\bin\Debug\Cinema.db
+D:\App dev\CineWeb\CineWeb\bin\Debug\CineWeb.exe.config
+D:\App dev\CineWeb\CineWeb\bin\Debug\CineWeb.exe
+D:\App dev\CineWeb\CineWeb\bin\Debug\CineWeb.pdb
+D:\App dev\CineWeb\CineWeb\bin\Debug\EntityFramework.dll
+D:\App dev\CineWeb\CineWeb\bin\Debug\EntityFramework.SqlServer.dll
+D:\App dev\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.dll
+D:\App dev\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.EF6.dll
+D:\App dev\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.Linq.dll
+D:\App dev\CineWeb\CineWeb\bin\Debug\EntityFramework.xml
+D:\App dev\CineWeb\CineWeb\bin\Debug\EntityFramework.SqlServer.xml
+D:\App dev\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.xml
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.AssemblyReference.cache
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.SuggestedBindingRedirects.cache
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.AllMovies.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.ChooseDate.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Home.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Login.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Menu.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Payment.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Properties.Resources.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Receipt.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Seats.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.SeletedMovie.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.SignUp.resources
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.GenerateResource.cache
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.CoreCompileInputs.cache
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.CopyComplete
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.exe
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.pdb
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.AssemblyReference.cache
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.SuggestedBindingRedirects.cache
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.AllMovies.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.ChooseDate.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Details.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Home.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Login.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Menu.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Payment.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Properties.Resources.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Receipt.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.Seats.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.SeletedMovie.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.SignUp.resources
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.GenerateResource.cache
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.CoreCompileInputs.cache
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.exe
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.pdb
+E:\App dev\CineWeb\CineWeb\bin\Debug\Cinema.db
+E:\App dev\CineWeb\CineWeb\bin\Debug\CineWeb.exe.config
+E:\App dev\CineWeb\CineWeb\bin\Debug\CineWeb.exe
+E:\App dev\CineWeb\CineWeb\bin\Debug\CineWeb.pdb
+E:\App dev\CineWeb\CineWeb\bin\Debug\EntityFramework.dll
+E:\App dev\CineWeb\CineWeb\bin\Debug\EntityFramework.SqlServer.dll
+E:\App dev\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.dll
+E:\App dev\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.EF6.dll
+E:\App dev\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.Linq.dll
+E:\App dev\CineWeb\CineWeb\bin\Debug\EntityFramework.xml
+E:\App dev\CineWeb\CineWeb\bin\Debug\EntityFramework.SqlServer.xml
+E:\App dev\CineWeb\CineWeb\bin\Debug\System.Data.SQLite.xml
+E:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.csproj.CopyComplete
+D:\App dev\CineWeb\CineWeb\obj\Debug\CineWeb.PersonalInfo.resources
